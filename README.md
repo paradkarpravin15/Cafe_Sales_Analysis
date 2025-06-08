@@ -89,7 +89,7 @@ Performed in Python (Google Colab):
 ## 📊 Power BI Dashboard
 
 Power BI dashboard includes:
-- **KPIs**: Total Sales, Average Sales, Total orders, Total items in meanu, Top performing product 
+- **KPIs**: Total Sales, Average Sales, Total orders, Total items in menu, Top performing product 
 - **Trends**: Monthly & Daily Sales, Top Items
 - **Distribution**: Payment Methods, Locations, Sales by item
 - **Filters**: Dynamic slicers for Item, month, Location and Payment Method
@@ -103,7 +103,7 @@ Power BI dashboard includes:
 ## 📈 Key Insights
 
 - **Top Products**: Salad, Sandwich, Smoothie lead in sales
-- **Peak Days**: Weekends and month-ends show higher sales
+- **Peak Days**: Thursday and October month show higher sales
 - **Digital Payments** dominate over cash
 - **Takeaway Sales** outperform In-store
 - **Recommendation**: Consider weekday promotions and bundling bestsellers
